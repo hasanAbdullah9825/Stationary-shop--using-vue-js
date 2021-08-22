@@ -1,4 +1,15 @@
 # stationary-shop
+![](cart.png)
+
+
+
+
+
+
+
+
+
+
 
 ## Project setup
 ```
